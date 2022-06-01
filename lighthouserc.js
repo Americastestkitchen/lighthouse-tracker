@@ -1,7 +1,7 @@
 module.exports = {
   ci: {
     collect: {
-      url: ['https://www.americastestkitchen.com/', 'https://www.cookscountry.com/', 'https://www.cooksillustrated.com/', 'https://www.americastestkitchen.com/reviews', 'https://www.americastestkitchen.com/articles', 'https://www.americastestkitchen.com/recipes/13333-cranberry-curd-tart-with-almond-crust', 'https://www-staging3.americastestkitchen.com/', 'https://www-staging3.cookscountry.com/', 'https://www-staging3.cooksillustrated.com/'],
+      url: ['https://www.americastestkitchen.com/', 'https://www.cookscountry.com/', 'https://www.cooksillustrated.com/', 'https://www.americastestkitchen.com/reviews', 'https://www.americastestkitchen.com/articles', 'https://www.americastestkitchen.com/recipes/13333-cranberry-curd-tart-with-almond-crust', 'https://www.americastestkitchen.com/favorites'],
       puppeteerScript: 'puppeteer-script.js',
     },
     upload: {
